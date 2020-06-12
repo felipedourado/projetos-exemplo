@@ -1,0 +1,8 @@
+C:\Users\resource\source\repos\Easynvest.Extrato\Easynvest.ExtratoDal\bin\Debug\netcoreapp3.1\Easynvest.ExtratoDal.deps.json
+C:\Users\resource\source\repos\Easynvest.Extrato\Easynvest.ExtratoDal\bin\Debug\netcoreapp3.1\Easynvest.ExtratoDal.dll
+C:\Users\resource\source\repos\Easynvest.Extrato\Easynvest.ExtratoDal\obj\Debug\netcoreapp3.1\Easynvest.ExtratoDal.csprojAssemblyReference.cache
+C:\Users\resource\source\repos\Easynvest.Extrato\Easynvest.ExtratoDal\obj\Debug\netcoreapp3.1\Easynvest.ExtratoDal.AssemblyInfoInputs.cache
+C:\Users\resource\source\repos\Easynvest.Extrato\Easynvest.ExtratoDal\obj\Debug\netcoreapp3.1\Easynvest.ExtratoDal.AssemblyInfo.cs
+C:\Users\resource\source\repos\Easynvest.Extrato\Easynvest.ExtratoDal\bin\Debug\netcoreapp3.1\Easynvest.ExtratoDal.pdb
+C:\Users\resource\source\repos\Easynvest.Extrato\Easynvest.ExtratoDal\obj\Debug\netcoreapp3.1\Easynvest.ExtratoDal.dll
+C:\Users\resource\source\repos\Easynvest.Extrato\Easynvest.ExtratoDal\obj\Debug\netcoreapp3.1\Easynvest.ExtratoDal.pdb
