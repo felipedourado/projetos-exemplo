@@ -22,3 +22,7 @@ Um ponto que poderia ser melhorado dependendo do cenário: utilizar pattern stra
 Uma dúvida que ficou em aberto é a questão de volumetria e na necessidade de ser assicrono, para fins do exercicio deixei sem task
 
 
+##todo
+
+docker build -t extrato-image .
+docker-compose -f docker-compose.yml up
