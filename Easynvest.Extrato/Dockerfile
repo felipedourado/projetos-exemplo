@@ -10,4 +10,4 @@ FROM mcr.microsoft.com/dotnet/core/runtime:3.1
 MAINTAINER felipedourado
 WORKDIR /app
 COPY --from=build-env /app/out .
-ENTRYPOINT ["./dotnetapp"]
+ENTRYPOINT ["dotnetapp", "Easynvest.Extrato.dll"]
