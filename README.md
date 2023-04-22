@@ -1,4 +1,4 @@
-# projetos-exemplo
+# Sample-Project
 
 Esse projeto tem como finalidade solucionar um teste proposto de orquestração de chamadas (api) externas em uma única api de negócio.
 
