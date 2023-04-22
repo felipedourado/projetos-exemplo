@@ -2,10 +2,6 @@
 
 Esse projeto tem como finalidade solucionar um teste proposto de orquestração de chamadas (api) externas em uma única api de negócio.
 
-Esse projeto possui testes unitários.
-
-Esse projeto faz injeção de dependencias via interface.
-
 Esse projeto possui o conceito de feature toogle para ligar ou desligar os serviços externos individualmente 
 alterações de rotas das chamadas externas
 
